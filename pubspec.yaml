@@ -19,6 +19,9 @@ dependencies:
   flutter_svg: ^2.0.10
   collection: ^1.18.0
   image_picker: ^1.0.7
+  http_parser: ^4.1.2
+  google_sign_in: ^6.3.0
+  js: ^0.6.7
 
 dev_dependencies:
   flutter_test:

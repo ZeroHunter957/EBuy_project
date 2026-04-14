@@ -19,7 +19,7 @@ A Flutter/Dart mobile client (inspired by eBay's shopping UX) for the Sem4 onlin
    flutter pub get
    flutter run
    ```
-3. Ensure the Spring Boot backend is running on `http://:9999` for Android emulators
+3. Ensure the Spring Boot backend is running on `http://10.0.2.2:9999` for Android emulators
    (or adjust `ApiConfig.baseUrl` in `lib/core/constants.dart`).
 
 ## Project Structure
